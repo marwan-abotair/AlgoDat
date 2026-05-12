@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97effd32-74a1-48e5-992b-b0e8214c1b37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Blatt03/src/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Blatt03/src/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Blatt03/src/PermutationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Blatt03/Test/PermutationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2xuZ5j8GA0XhTrU1mUAtlTyWNNP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/marwa/Documents/TU Berlin/2. Semester/AlgoDat/material/Blatt04/src"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97effd32-74a1-48e5-992b-b0e8214c1b37" name="Changes" comment="" />
+      <created>1748789737407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748789737407</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,68 @@
+ir,  07.07.2025, 16:32:13, cb34131b7ffc0e254f726ff4ca4d35d9d3750a6b
+Korrektur Blatt 8
+
+Aufgabe 3.2
+	Does the method contrast() of MatrixImage work correctly?: 5/5
+	Does the method removeVPath() of MatrixImage work correctly?: 15/15
+Total points for Aufgabe 3.2: 20/20
+
+Aufgabe 3.3
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for large DAGs?: 0/4
+	  java.lang.AssertionError: A valid path is required for this test (see validity test).
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for large DAGs?: 0/6
+	  java.lang.AssertionError: A valid path is required for this test (see validity test).
+	Does the method pathTo() of ShortestPathsTopological return a valid path for large DAGs?: 0/4
+	  java.lang.AssertionError: Method 'pathTo()' returns an invalid path: null.
+We called the constructor for start node #0 and requested the shortest path to target node #100
+in the graph 'DAG-L-0.txt' which can be downloaded from https://tubcloud.tu-berlin.de/s/raSPEYno9sCnSx5.
+The path returned by your 'pathTo()' is null, but there is a path.
+	Does the method pathTo() of ShortestPathsTopological return a valid path for large DAGs?: 0/6
+	  java.lang.AssertionError: Method 'pathTo()' returns an invalid path: null.
+We called the constructor for start node #499 and requested the shortest path to target node #0
+in the graph 'DAG-L-0.txt' which can be downloaded from https://tubcloud.tu-berlin.de/s/raSPEYno9sCnSx5.
+For testing a start node different than 0, the indices of the nodes have been reversed.
+The path returned by your 'pathTo()' is null, but there is a path.
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for medium-sized DAGs?: 0/4
+	  java.lang.AssertionError: A valid path is required for this test (see validity test).
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for medium-sized DAGs?: 0/6
+	  java.lang.AssertionError: A valid path is required for this test (see validity test).
+	Does the method pathTo() of ShortestPathsTopological return a valid path for medium-sized DAGs?: 0/4
+	  java.lang.AssertionError: Method 'pathTo()' returns an invalid path: null.
+We called the constructor for start node #0 and requested the shortest path to target node #10
+in the graph 'DAG-M-0.txt' which can be downloaded from https://tubcloud.tu-berlin.de/s/raSPEYno9sCnSx5.
+The path returned by your 'pathTo()' is null, but there is a path.
+	Does the method pathTo() of ShortestPathsTopological return a valid path for medium-sized DAGs?: 0/6
+	  java.lang.AssertionError: Method 'pathTo()' returns an invalid path: null.
+We called the constructor for start node #49 and requested the shortest path to target node #0
+in the graph 'DAG-M-0.txt' which can be downloaded from https://tubcloud.tu-berlin.de/s/raSPEYno9sCnSx5.
+For testing a start node different than 0, the indices of the nodes have been reversed.
+The path returned by your 'pathTo()' is null, but there is a path.
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for small DAGs?: 0/2
+	  java.lang.AssertionError: A valid path is required for this test (see validity test).
+	Does the method pathTo() of ShortestPathsTopological return an optimal path for small DAGs?: 0/3
+	  java.lang.AssertionError: A valid path is required for this test (see validity test).
+	Does the method pathTo() of ShortestPathsTopological return a valid path for small DAGs?: 0/2
+	  java.lang.AssertionError: Method 'pathTo()' returns an invalid path: null.
+We called the constructor for start node #0 and requested the shortest path to target node #2
+in the graph 'DAG-S-0.txt' which can be downloaded from https://tubcloud.tu-berlin.de/s/raSPEYno9sCnSx5.
+The path returned by your 'pathTo()' is null, but there is a path.
+	Does the method pathTo() of ShortestPathsTopological return a valid path for small DAGs?: 0/3
+	  java.lang.AssertionError: Method 'pathTo()' returns an invalid path: null.
+We called the constructor for start node #9 and requested the shortest path to target node #0
+in the graph 'DAG-S-0.txt' which can be downloaded from https://tubcloud.tu-berlin.de/s/raSPEYno9sCnSx5.
+For testing a start node different than 0, the indices of the nodes have been reversed.
+The path returned by your 'pathTo()' is null, but there is a path.
+Total points for Aufgabe 3.3: 0/50
+
+Aufgabe 3.4
+	Does the method leastContrastImageVPath() of ContentAwareImageResizing return an optimal path?: 0/20
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int[]
+
+	Does the method leastContrastImageVPath() of ContentAwareImageResizing return a valid path?: 0/10
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int[]
+
+Total points for Aufgabe 3.4: 0/30
+
+Total points: 20/100
